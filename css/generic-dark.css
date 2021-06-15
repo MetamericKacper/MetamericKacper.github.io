@@ -563,7 +563,8 @@
  
  h3 {
    border-left: 0px solid #586e75;
-   font-size: 25.6px; }
+   font-size: 25.6px;
+   text-align: center }
    @media only screen and (max-width: 35em) {
      h3 {
        font-size: 21px; } }
@@ -587,7 +588,8 @@
  h1 {
    background-color: #073642;
    font-size: 43.2px;
-   margin-top: 2em; }
+   margin-top: 2em;
+   text-align: center; }
    h1 ::selection {
      background-color: #002b36; }
    h1 ::-moz-selection {
