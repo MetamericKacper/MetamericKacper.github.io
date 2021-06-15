@@ -607,7 +607,7 @@
      h1 {
        font-size: 30px; } }
    h1:before {
-     content: "*";
+     content: "";
      color: #dc322f; }
  
  ul, ol {
