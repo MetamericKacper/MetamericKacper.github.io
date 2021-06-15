@@ -459,8 +459,8 @@
        padding: 32px; } }
    @media only screen and (min-width: 64.063em) {
      body {
-       margin-left: 130px;
-       margin-right: 32px; } }
+       margin-left: 192px;
+       margin-right: 192px; } }
    body ::selection {
      background-color: #fdf6e3;
      color: #d33682; }
