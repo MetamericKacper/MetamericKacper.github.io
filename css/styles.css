@@ -39,4 +39,5 @@ h1 {
 .row{
     text-align: center;
     color: #ffffff;
+    justify-content: space-around;
 }
