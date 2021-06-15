@@ -562,7 +562,7 @@
      color: #2aa198; }
  
  h3 {
-   border-left: 1px solid #586e75;
+   border-left: 0px solid #586e75;
    font-size: 25.6px; }
    @media only screen and (max-width: 35em) {
      h3 {
